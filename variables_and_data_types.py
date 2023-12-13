@@ -11,6 +11,9 @@ print("Rupees" , price);
 
 print("Name is ", full_name.upper())
 
+# Check data type of variable
+print("Type of age is ", type(is_happy))
+
 # variables
 # values For eg- value of variable age is 30
 # data types - integer , float, string, boolean. For eg - data type of variable age is integer
